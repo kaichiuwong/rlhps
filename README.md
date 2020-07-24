@@ -1,6 +1,6 @@
-# RL-Teacher
+# RLHPS
 
-`rl-teacher` is an implementation of [*Deep Reinforcement Learning from Human Preferences*](https://arxiv.org/abs/1706.03741) [Christiano et al., 2017].
+`RLHPS` is based on the implementation of [*Deep Reinforcement Learning from Human Preferences*](https://arxiv.org/abs/1706.03741) [Christiano et al., 2017].
 
 The system allows you to teach a reinforcement learning agent novel behaviors, even when both:
 
